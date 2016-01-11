@@ -1,0 +1,1 @@
+"David " + "Bowie" #String concatenation: Full name is returned
