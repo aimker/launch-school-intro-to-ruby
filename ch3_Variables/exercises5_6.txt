@@ -1,0 +1,8 @@
+# EXERCISE 5
+
+In the first program, x is printed with a value of 3. 
+In the second program the scope of variable x is within the block, so the program gives an error of undefined x variable.
+
+# EXERCISE 6
+
+The error tells us that the shoes variable is not defined. It is either not defined at all, or created with a limited scope, inside a block.
