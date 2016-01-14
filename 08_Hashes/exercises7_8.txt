@@ -1,0 +1,14 @@
+### EXERCISE 7 ###
+
+The first hash uses a symbol as the key, not the variable x, so the following is returned: {:x=>"some value"}
+
+The first hash uses the x variable as the key, so the following hash is returned:
+{"hi there"=>"some value”}.
+
+######
+
+### EXERCISE 8 ###
+
+The most likely problem is “B. There is no method called keys for Array objects”.
+
+######
